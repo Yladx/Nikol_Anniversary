@@ -1,0 +1,76 @@
+{
+  "months": [
+    {
+      "id": "01",
+      "label": "Month One - October 2025",
+      "image": "images/months/month-01.jpg",
+      "message": "The first month of us, and the first time I realized how much I wanted to be with you. Every day since has been a new adventure, and I can't wait for next the months to come."
+    },
+    {
+      "id": "02",
+      "label": "Month Two - November 2025",
+      "image": "images/months/month-02.png",
+       "message": "My birthday month, but also a really stressful one dahil sa  thesis. Thank you for always supporting me nd paghihintay whenever I get busy. Sa lahat ng pagintindi mo, pakikinig sa rant ko sobrang thankyou it really means so much to me."
+     },
+    {
+      "id": "03",
+      "label": "Month Three - December 2025",
+      "image": "images/months/month-03.jpg",
+      "message": "The first step of being together in the same place and time. Our first meet-up, first date, first kiss, first time holding hands, first “I love you,” on person and our first Christmas together. So many firsts that we’ll always remember and cherish talaga sobra .  Thankyou"
+    },
+    {
+      "id": "04",
+      "label": "Month Four - January 2026",
+      "image": "images/months/month-04.jpg",
+      "message": 
+      "A month filled with surprises and moments when we almost lost each other. What started with fun (alam mo na yon haha first time) suddenly turned into problems that almost pulled us apart (that time akala ko waiting game na). Still remember that time na tumawag ka tas umiiyak .. But you stayed, fought for us, and still chose me. Thank you for being here and for never giving up on us."
+    },
+    {
+      "id": "05",
+      "label": "Month Five - February 2026",
+      "image": "images/months/month-05.jpg",
+      "message": "This month started with me being busy preparing and taking care of my OJT documents. With everything going on, I also felt a little sad thinking na baka hindi muna tayo magkita for a while. Kaya I decided na magkita tayo this month, kahit saglit lang, para kahit papaano makabawi and spend some time together before things got even busier."
+    },
+    {
+      "id": "06",
+      "label": "Month Six - March 2026",
+      "image": "images/months/month-06.mp4",
+      "message": "Start of OJT era for me been lot of busy and there a time na nabubusy me bigla. And there time n di tayo nakakapag usap especially that time im onsite. But you still understand me and you still support me. Thank you for being patient and understanding me. I really appreciate it."
+    },
+    {
+      "id": "07",
+      "label": "Month Seven - April 2026",
+      "image": "images/months/month-07.jpg",
+      "message": "This month was mostly busy with my OJT, pero one of the memorable moments was when you story my picture nung hiking namin Iloveyousmuch. Sobrang saya ko nung nakita ko yun. I was also getting more excited habang papalapit na yung end ng OJT, hopingly na sana magkakaroon na ulit tayo ng mas maraming time para sa isa’t isa."
+    },
+    {
+      "id": "08",
+      "label": "Month Eight - May 2026",
+      "image": "images/months/month-08.jpg",
+      "message": "This month was the end of my OJT, and naging busy ako sa final narrative report. I also felt a little lost about what to do next, so I started looking for potential jobs. Thank you for always encouraging me whenever I felt down. And while figuring out my next step, nagplano rin tayo kung kailan tayo magkikita ulit next month."
+    },
+    {
+      "id": "09",
+      "label": "Month Nine - June 2026",
+      "image": "images/months/month-09.mp4",
+      "message": "After three months na hindi tayo nagkita, finally nakapag-date ulit tayo—two dates in one month! HAHAHA. Sobrang daming saya, kwentuhan, and fun ooopxxx  this month another memories na naman together. Thank you for being my partner in crime and, most of all, thank you for patiently waiting for me during those three months na hindi tayo nagkita."
+    },
+    {
+      "id": "10",
+      "label": "Month Ten - July 2026",
+      "image": "images/months/month-10.png",
+      "message": "This time graduation month which was a big milestone for both for me Im already graduate. Also the saddest part that we lost one of our biggest supporter. I know that we both miss her and I know that she will always be with us."
+    },
+    {
+      "id": "11",
+      "label": "Month Eleven - August 2026",
+      "image": "images/months/month-11.jpg",
+      "message": "Its been a one of memorable one for us. It was the very first time na Inuwi kita sa bahay to meet my family. We spent times playing games, watching moveis and exploring syempre. Youre the very first girl Ive ever introduce sa Family ko. Im really thankful that you come talaga sobra."  },
+    {
+      "id": "12",
+      "label": "Month Twelve - September 2026",
+      "image": "images/months/month-12.webp",
+      "message": "Twelve months of us. One year of laughter, growth, memories, and choosing each other. And this is only the beginning. "
+    }
+  ]
+}
